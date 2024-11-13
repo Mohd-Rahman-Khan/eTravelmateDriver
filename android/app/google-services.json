@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1017758355208",
+    "project_id": "etravelmatedriver-620fe",
+    "storage_bucket": "etravelmatedriver-620fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017758355208:android:b1ee06800b09e154b326bd",
+        "android_client_info": {
+          "package_name": "com.etravelmatedriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017758355208-c65g17ud4o81rk72tgn6rtfu3tq38ebs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5F2rgrhfiecbn3f9vTioVFomPu0kSsig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017758355208-c65g17ud4o81rk72tgn6rtfu3tq38ebs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
